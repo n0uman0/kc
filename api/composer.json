@@ -1,0 +1,19 @@
+{
+    "name": "nouman/knowledge-city",
+    "description": "Knowledge City",
+    "type": "project",
+    "license": "GPU",
+    "autoload": {
+        "psr-4": {
+            "KnowledgeCity\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Nouman",
+            "email": "snoumanshafiq@gmail.com"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {}
+}
